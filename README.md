@@ -13,7 +13,10 @@ A responsive web application that displays student testimonials from the CCBP 4.
 - 📱 **Responsive Design**: Fully optimized for desktop and mobile screens.
 
 ---
+## 🔗 Live Demo
 
+👉 [**View Live on**](https://testinomail572.ccbp.tech/)
+---
 ## 🧑‍💻 Technologies Used
 
 - **HTML** – Markup structure
