@@ -1,4 +1,3 @@
-```markdown
 # 📝 CCBP 4.0 Testimonials Search Filter
 
 A responsive web application that displays student testimonials from the CCBP 4.0 program and allows users to filter them in real-time based on a search keyword.
@@ -83,5 +82,3 @@ Full Stack Developer & Cybersecurity Enthusiast
 ## 📃 License
 
 This project is licensed under the MIT License.
-
-```
